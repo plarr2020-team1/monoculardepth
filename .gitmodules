@@ -4,4 +4,3 @@
 [submodule "mannequinchallenge"]
 	path = mannequinchallenge
 	url = https://github.com/plarr2020-team1/mannequinchallenge
-	branch = mot
