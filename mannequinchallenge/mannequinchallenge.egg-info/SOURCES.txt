@@ -1,9 +1,0 @@
-README.md
-setup.py
-mannequinchallenge/infer.py
-mannequinchallenge/test_davis_videos.py
-mannequinchallenge/test_tum.py
-mannequinchallenge.egg-info/PKG-INFO
-mannequinchallenge.egg-info/SOURCES.txt
-mannequinchallenge.egg-info/dependency_links.txt
-mannequinchallenge.egg-info/top_level.txt
